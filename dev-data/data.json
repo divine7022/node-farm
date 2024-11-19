@@ -1,10 +1,10 @@
 [
   {
     "id": 0,
-    "productName": "Fresh Avocados",
+    "productName": " Fresh Avocados ",
     "image": "🥑",
     "from": "Spain",
-    "nutrients": "Vitamin B, Vitamin K",
+    "nutrients": " Vitamin B, Vitamin K ",
     "quantity": "4 🥑",
     "price": "6.50",
     "organic": true,
